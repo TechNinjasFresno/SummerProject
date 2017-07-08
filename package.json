@@ -1,0 +1,22 @@
+{
+  "name": "summerproject",
+  "version": "1.0.0",
+  "description": "employee database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechNinjasFresno/SummerProject.git"
+  },
+  "author": "ashdlc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechNinjasFresno/SummerProject/issues"
+  },
+  "homepage": "https://github.com/TechNinjasFresno/SummerProject#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
